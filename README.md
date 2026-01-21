@@ -1,1 +1,3 @@
 # E-commerce-Sales-Analysis
+
+This dashboard provides a comprehensive overview of Madhav Ecommerce’s sales performance across states, time periods, product categories, payment modes, and profitability. It summarizes key business metrics such as total sales amount, average order value (AOV), total quantity sold, and overall profit. Interactive filters for Quarter and State allow users to drill down and analyze performance at different levels. The visuals help identify high-performing regions, customer payment preferences, category-wise demand, and monthly profit trends, supporting data-driven business decisions.
